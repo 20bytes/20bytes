@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="coding" />
 </div>
 
-<h2 align="center">Hi, I'm 20bytes</h2>
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave" />, I'm 20bytes</h2>
 
 <p align="center">
   <a href="https://github.com/20bytes"><img src="https://img.shields.io/badge/GitHub-20bytes-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
