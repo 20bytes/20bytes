@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/20bytes"><img src="https://img.shields.io/badge/GitHub-20bytes-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://20bytes.github.io/"><img src="https://img.shields.io/badge/Website-20bytes.github.io-0ea5e9?style=for-the-badge" alt="Website"></a>
+  <a href="https://20bytes.top/"><img src="https://img.shields.io/badge/Website-Visit_Website-0ea5e9?style=for-the-badge" alt="Website"></a>
 </p>
 
 - Building and sharing projects on GitHub.
