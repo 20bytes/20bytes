@@ -9,9 +9,10 @@
   <a href="https://20bytes.top/"><img src="https://img.shields.io/badge/Website-Visit_Website-0ea5e9?style=for-the-badge" alt="Website"></a>
 </p>
 
-- Building and sharing projects on GitHub.
-- Interested in practical software engineering and tooling.
-- Reach me via GitHub issues/discussions.
+- 🔭 I'm currently an undergraduate student exploring **Embodied Intelligence** and **World Models**.
+- 👯 I'm looking to discuss **Embodied Intelligence** and **World Models** research.
+- 📫 How to reach me: Please mail me at **success_fang@163.com**.
+- 😄 Still on the way.
 
 <div align="center">
 
