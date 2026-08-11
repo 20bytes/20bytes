@@ -1,26 +1,42 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="coding" />
+<div align="left">
+  <img src="./assets/header.svg" width="195" height="30" alt="Hi"/>
+  <p>
+    <code>昙柏 (Tanbai)</code>
+    <code>Master's Student @ Southeast University</code>
+    <code>Embodied AI & AI for AI</code>
+  </p>
 </div>
 
-<h2 align="center">Hi, I'm 20bytes</h2>
+- I'm currently exploring **Embodied AI** (Aerial VLN & World Models) and **AI for AI** (Auto Research & RSI).
+- I also keep a blog for paper reading notes, tech notes, and the building of automated research tools.
+- I'm primarily seeking a **research internship**, happy to discuss research ideas or contribute to fun projects. Feel free to email me.
+- Grateful to live in this era of AI and open source, just an ordinary person doing the work, and still on the way. 🌱
 
-<p align="center">
-  <a href="https://github.com/20bytes"><img src="https://img.shields.io/badge/GitHub-20bytes-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://20bytes.github.io/"><img src="https://img.shields.io/badge/Website-20bytes.github.io-0ea5e9?style=for-the-badge" alt="Website"></a>
+<p>
+  <samp>
+    <a href="https://20bytes.top/">Blog</a> ·
+    <a href="https://github.com/20bytes">GitHub</a> ·
+    <a href="https://www.xiaohongshu.com/user/profile/68bffe82000000001900ccff">Rednote</a> ·
+    <a href="mailto:success_fang@163.com">Email</a>
+  </samp>
 </p>
 
-- Building and sharing projects on GitHub.
-- Interested in practical software engineering and tooling.
-- Reach me via GitHub issues/discussions.
+<div align="center">
+  <samp>FIRST PRINCIPLES · SEDIMENTATION · RESTRAINT · GOODWILL</samp>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/20bytes/20bytes/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/20bytes/20bytes/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/20bytes/20bytes/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/20bytes/20bytes-profile/output/github-contribution-grid-snake.svg)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=20bytes&theme=gotham)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=20bytes&theme=gotham)
 
 </div>
 
 <p align="center">
-  <a href="https://github.com/20bytes"><img src="https://visitor-badge.laobi.icu/badge?page_id=20bytes.20bytes-profile" alt="Visitors"></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=20bytes.20bytes-profile" alt="Visitors">
 </p>
