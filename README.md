@@ -32,9 +32,11 @@
 </div>
 
 <div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=20bytes&theme=gotham)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=20bytes&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=20bytes&theme=github" />
+    <img alt="profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=20bytes&theme=github" />
+  </picture>
 </div>
 
 <p align="center">
